@@ -1,7 +1,7 @@
 # Marketing_performance_dashboard
 A data analytics dashboard that tracks and compares marketing campaign performance across channels, built as the SkillOrbit Data Analytics Capstone Project.
 
-Live dashboard: PASTE_YOUR_STREAMLIT_LINK_HERE
+Live dashboard: https://marketingperformancedashboard-nycdhmh5l2x2rj8ew5d3m5.streamlit.app/
 
 # Objective
 1. Analyze marketing campaign data
