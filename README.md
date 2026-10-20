@@ -38,7 +38,7 @@ Blinkit marketing performance dataset from Kaggle (5,400 campaign records, March
  `Marketing_Performance_Major_Project.ipynb` | Cleaning and KPI analysis notebook 
 
 # Run Locally
-             pip install -r requirements.txt
+             pip install-r requirements.txt
              streamlit run app.py
 
 # Tech Stack
