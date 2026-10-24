@@ -46,3 +46,5 @@ Python, Pandas, Plotly, Streamlit, Google Colab, GitHub
 
 # BY:
 SANJANA_YADAV
+
+# NOTE: I would like to thank SkillOrbit and Unlox Academy for this project opportunity. I had also used Claude (AI Assistance) for guidance during the project, as this is my first experience with all these. I ran the analysis, deployed the dashboard and finalized the PPT and this report by myself. 
